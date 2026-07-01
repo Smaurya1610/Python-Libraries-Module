@@ -24,4 +24,5 @@ size               dynamic                  fixed
 insertion           easy                    complex
 delection           easy                    complex
 '''
+
 # array m contiguos memory allocation   but list is non contiguous
